@@ -25,15 +25,15 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 ### My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sonikrupa74-alt&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,4 +45,6 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ---
 
-⭐ Consistent work > random hype
+<p align="center">
+  ⭐ <b>Consistent work > random hype</b>
+</p>
