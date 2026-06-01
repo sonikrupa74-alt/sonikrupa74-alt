@@ -29,7 +29,7 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
