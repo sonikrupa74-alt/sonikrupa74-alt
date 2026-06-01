@@ -1,5 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Future+Data+Scientist" />
+</p>
+
 <h1 align="center">Hi, I'm Krupa Soni</h1>
 <p align="center">Machine Learning | Python | FastAPI</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -22,14 +33,21 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ---
 
-### My Stats
+### 🚀 Projects
+
+* 📊 Machine Learning Models & Experiments
+* 🧠 Daily Practice Repository (consistent learning)
+
+---
+
+### 📊 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -38,7 +56,7 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ---
 
-### Activity
+### 📈 Activity
 
 * Currently building projects and improving consistency
 * Sharing daily learning through practice repo
@@ -47,4 +65,8 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 <p align="center">
   ⭐ <b>Consistent work > random hype</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonikrupa74-alt&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
