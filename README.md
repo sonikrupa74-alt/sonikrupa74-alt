@@ -35,9 +35,18 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ### 🚀 Projects
 
-* 📊 [Machine Learning Models & Experiments](https://github.com/sonikrupa74-alt)
-* 🧠 [Daily Practice Repository](https://github.com/sonikrupa74-alt/daily-practice)
+* 📊 **Sales Prediction System**
+  🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
+  🔗 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
 
+* 💼 **Salary Prediction System (End-to-End ML + Docker)**
+  🔗 Live App: https://salary-predictor-lut4.onrender.com/
+  🔗 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
+
+* 🧠 **Daily Practice Repository (Consistency)**
+  🔗 https://github.com/sonikrupa74-alt/daily-practice
+
+  Real-time ML prediction system with FastAPI backend and deployed frontend
 ---
 
 ### 📊 My Stats
