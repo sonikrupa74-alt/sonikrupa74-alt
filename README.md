@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Future+Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects" />
 </p>
 
 <h1 align="center">Hi, I'm Krupa Soni</h1>
@@ -35,8 +35,8 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ### 🚀 Projects
 
-* 📊 Machine Learning Models & Experiments
-* 🧠 Daily Practice Repository (consistent learning)
+* 📊 [Machine Learning Models & Experiments](https://github.com/sonikrupa74-alt)
+* 🧠 [Daily Practice Repository](https://github.com/sonikrupa74-alt/daily-practice)
 
 ---
 
