@@ -46,22 +46,33 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 * 🧠 **Daily Practice Repository (Consistency)**
   🔗 https://github.com/sonikrupa74-alt/daily-practice
 
-  Real-time ML prediction system with FastAPI backend and deployed frontend
+---
+
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+</p>
 
 ---
 
-### 📊 My Stats
+## 📈 Contribution Graph (LIVE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonikrupa74-alt&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+---
+
+## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
