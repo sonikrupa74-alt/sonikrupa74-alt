@@ -47,20 +47,21 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
   🔗 https://github.com/sonikrupa74-alt/daily-practice
 
   Real-time ML prediction system with FastAPI backend and deployed frontend
+
 ---
 
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
