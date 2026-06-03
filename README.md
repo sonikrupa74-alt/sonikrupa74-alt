@@ -52,7 +52,7 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
