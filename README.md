@@ -18,57 +18,54 @@
 
 Hi, I’m Krupa Soni, a developer focused on building practical systems using Machine Learning and Python.
 
-- BSc IT Graduate  
-- Working with ML models and backend APIs  
-- Interested in real-world AI applications  
+* BSc IT Graduate
+* Working with ML models and backend APIs
+* Interested in real-world AI applications
 
 ---
 
 ### Tech Stack
 
-- Python  
-- Machine Learning  
-- FastAPI  
-- Pandas, NumPy, Scikit-learn  
+* Python
+* Machine Learning
+* FastAPI
+* Pandas, NumPy, Scikit-learn
 
 ---
 
 ### 🚀 Projects
 
-- 📊 **Sales Prediction System**  
-  🔗 Frontend: https://sales-frontend-w8u6.onrender.com/  
-  🔗 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system  
+* 📊 **Sales Prediction System**
+  🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
+  🔗 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
 
-- 💼 **Salary Prediction System (End-to-End ML + Docker)**  
-  🔗 Live App: https://salary-predictor-lut4.onrender.com/  
-  🔗 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system  
+* 💼 **Salary Prediction System (End-to-End ML + Docker)**
+  🔗 Live App: https://salary-predictor-lut4.onrender.com/
+  🔗 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
 
-- 🧠 **Daily Practice Repository (Consistency)**  
-  🔗 https://github.com/sonikrupa74-alt/daily-practice  
-  Real-time ML prediction system with FastAPI backend and deployed frontend  
+* 🧠 **Daily Practice Repository (Consistency)**
+  🔗 https://github.com/sonikrupa74-alt/daily-practice
+  Real-time ML prediction system with FastAPI backend and deployed frontend
 
 ---
 
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
 
 ### 📈 Activity
 
-- Currently building projects and improving consistency  
-- Sharing daily learning through practice repo  
+* Currently building projects and improving consistency
+* Sharing daily learning through practice repo
 
 ---
 
