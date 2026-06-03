@@ -52,7 +52,8 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
+  <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
