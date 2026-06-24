@@ -19,61 +19,68 @@
 
 Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI systems and automation workflows**.
 
-- 📊 Working on Machine Learning + API-based systems  
-- ⚙️ Building automation using n8n and APIs  
-- 🎯 Goal: AI/ML Engineer / Automation Engineer  
+* 📊 Working on Machine Learning + API-based systems
+* ⚙️ Building automation using n8n and APIs
+* 🎯 Goal: AI/ML Engineer / Automation Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**ML & Data:** Pandas, NumPy, Scikit-learn  
-**Backend:** FastAPI  
-**Automation:** n8n, APIs  
-**Tools:** Git, Docker, Jupyter  
+**Languages:** Python, SQL
+**ML & Data:** Pandas, NumPy, Scikit-learn
+**Backend:** FastAPI
+**Automation:** n8n, APIs
+**Tools:** Git, Docker, Jupyter
 
 ---
 
 ## 🚀 Projects
 
 ### 📊 Sales Prediction System
+
 Predicts future sales using machine learning models with deployed frontend & backend.
 
-**Tech:** Python, Pandas, Scikit-learn, FastAPI  
-🔗 Frontend: https://sales-frontend-w8u6.onrender.com/  
-💻 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system  
+**Tech:** Python, Pandas, Scikit-learn, FastAPI
+🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
+💻 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
 
 ---
 
 ### 💼 Salary Prediction System (End-to-End ML + Docker)
+
 Full ML pipeline with Dockerized deployment and real-time predictions.
 
-**Tech:** Python, Scikit-learn, FastAPI, Docker  
-🔗 Live App: https://salary-predictor-lut4.onrender.com/  
-💻 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system  
+**Tech:** Python, Scikit-learn, FastAPI, Docker
+🔗 Live App: https://salary-predictor-lut4.onrender.com/
+💻 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
 
 ---
 
-### 🤖 Social Media Automation System (n8n)
-Automates content workflow using n8n, Google Sheets, and APIs.
+### 🤖 WhatsApp Automation System (n8n)
 
-**Problem:** Manual posting is time-consuming and inconsistent  
+Automates messaging workflows using n8n and API integrations.
 
-**Tech:** n8n, Google Sheets API, Instagram API  
+**Problem:** Manual messaging and notifications are repetitive and inefficient
+
+**Tech:** n8n, APIs, Webhooks
 
 **Features:**
-- Auto-fetch content from Google Sheets  
-- Automated posting workflow  
-- No manual intervention  
-- Scalable automation system  
+
+* Automated message triggering
+* Workflow-based automation
+* API integration for messaging
+* Scalable and reusable workflows
+
+💻 Workflow Repo: https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
 
 ---
 
 ### 🧠 Daily Practice Repository
+
 Consistency-focused repository covering Python, Data Science, and ML basics.
 
-🔗 https://github.com/sonikrupa74-alt/daily-practice  
+🔗 https://github.com/sonikrupa74-alt/daily-practice
 
 ---
 
@@ -88,9 +95,9 @@ Consistency-focused repository covering Python, Data Science, and ML basics.
 
 ## 📈 Current Focus
 
-- Building AI + Automation projects  
-- Improving system design skills  
-- Maintaining daily coding consistency  
+* Building AI + Automation projects
+* Improving system design skills
+* Maintaining daily coding consistency
 
 ---
 
