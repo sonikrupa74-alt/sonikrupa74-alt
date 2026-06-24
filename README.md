@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
-
 <p align="center">AI | Machine Learning | Automation | FastAPI</p>
 
 <p align="center">
