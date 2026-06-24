@@ -30,20 +30,11 @@ Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI syst
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python, SQL
-
-**ML & Data:**
-Pandas, NumPy, Scikit-learn
-
-**Backend:**
-FastAPI
-
-**Automation:**
-n8n, APIs, Webhooks
-
-**Tools:**
-Git, Docker, Jupyter
+* **Languages:** Python, SQL
+* **ML & Data:** Pandas, NumPy, Scikit-learn
+* **Backend:** FastAPI
+* **Automation:** n8n, APIs, Webhooks
+* **Tools:** Git, Docker, Jupyter
 
 ---
 
@@ -60,7 +51,7 @@ Predicts future sales using machine learning with a deployed frontend and API ba
 **Key Work:**
 
 * Data preprocessing & feature engineering
-* Model training using regression algorithms
+* Model training using **Random Forest / XGBoost**
 * API development for real-time predictions
 
 **Performance:**
@@ -100,7 +91,7 @@ Automates messaging workflows using n8n and API integrations.
 **Tech:** n8n, APIs, Webhooks
 
 **Workflow:**
-Trigger → n8n Workflow → API Call → Automated Message Delivery
+Trigger (Webhook / Schedule) → n8n Workflow → API Processing → Automated WhatsApp Message Delivery
 
 **Features:**
 
