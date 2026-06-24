@@ -22,7 +22,6 @@ Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI syst
 * 📊 Building Machine Learning models with real-world datasets
 * ⚙️ Developing automation systems using n8n + APIs
 * 🔗 Creating end-to-end systems (ML + Backend + Deployment)
-* 🎯 Goal: AI/ML Engineer / Automation Engineer
 
 💡 **I focus on building complete systems — not just training models.**
 
@@ -58,8 +57,11 @@ Predicts future sales using machine learning with a deployed frontend and API ba
 
 * MAE: ~0.028 *(based on return prediction)*
 
-🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
-💻 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
+🔗 **Frontend:**
+https://sales-frontend-w8u6.onrender.com/
+
+💻 **Backend:**
+https://github.com/sonikrupa74-alt/Sales-prediction-system
 
 ---
 
@@ -77,8 +79,11 @@ Complete ML pipeline with Dockerized deployment and real-time prediction system.
 * Dockerized backend for scalable deployment
 * Integrated user input interface with prediction API
 
-🔗 Live App: https://salary-predictor-lut4.onrender.com/
-💻 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
+🔗 **Live App:**
+https://salary-predictor-lut4.onrender.com/
+
+💻 **Code:**
+https://github.com/sonikrupa74-alt/Salary-Prediction-system
 
 ---
 
@@ -91,7 +96,7 @@ Automates messaging workflows using n8n and API integrations.
 **Tech:** n8n, APIs, Webhooks
 
 **Workflow:**
-Trigger (Webhook / Schedule) → n8n Workflow → API Processing → Automated WhatsApp Message Delivery
+Trigger (Webhook / Schedule) → n8n Workflow → API Processing → Automated Message Delivery
 
 **Features:**
 
@@ -100,7 +105,8 @@ Trigger (Webhook / Schedule) → n8n Workflow → API Processing → Automated W
 * API integration for messaging
 * Scalable and reusable automation pipelines
 
-💻 Workflow Repo: https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
+💻 **Workflow Repo:**
+https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
 
 ---
 
