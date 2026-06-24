@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krupa+Soni;AI+%26+Automation+Developer;Building+End-to-End+Real+World+Systems" />
 </p>
 
-<h1 align="center">Hi, I'm Krupa Soni 👋</h1>
+<h1 align="center">Hi, I'm Krupa Soni👋</h1>
 <p align="center">AI | Machine Learning | Automation | FastAPI</p>
 
 <p align="center">
