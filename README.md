@@ -1,55 +1,85 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;AI+%26+Automation+Developer;Building+Real+World+Systems" />
 </p>
 
-<h1 align="center">Hi, I'm Krupa Soni</h1>
-<p align="center">Machine Learning | Python | FastAPI</p>
+<h1 align="center">Hi, I'm Krupa Soni 👋</h1>
+<p align="center">AI | Machine Learning | Automation | FastAPI</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 </p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-Hi, I’m Krupa Soni, a developer focused on building practical systems using Machine Learning and Python.
+Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI systems and automation workflows**.
 
-* BSc IT Graduate
-* Working with ML models and backend APIs
-* Interested in real-world AI applications
-
----
-
-### Tech Stack
-
-* Python
-* Machine Learning
-* FastAPI
-* Pandas, NumPy, Scikit-learn
+- 📊 Working on Machine Learning + API-based systems  
+- ⚙️ Building automation using n8n and APIs  
+- 🎯 Goal: AI/ML Engineer / Automation Engineer  
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-* 📊 **Sales Prediction System**
-  🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
-  🔗 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
-
-* 💼 **Salary Prediction System (End-to-End ML + Docker)**
-  🔗 Live App: https://salary-predictor-lut4.onrender.com/
-  🔗 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
-
-* 🧠 **Daily Practice Repository (Consistency)**
-  🔗 https://github.com/sonikrupa74-alt/daily-practice
-  Real-time ML prediction system with FastAPI backend and deployed frontend
+**Languages:** Python, SQL  
+**ML & Data:** Pandas, NumPy, Scikit-learn  
+**Backend:** FastAPI  
+**Automation:** n8n, APIs  
+**Tools:** Git, Docker, Jupyter  
 
 ---
 
-### 📊 My Stats
+## 🚀 Projects
+
+### 📊 Sales Prediction System
+Predicts future sales using machine learning models with deployed frontend & backend.
+
+**Tech:** Python, Pandas, Scikit-learn, FastAPI  
+🔗 Frontend: https://sales-frontend-w8u6.onrender.com/  
+💻 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system  
+
+---
+
+### 💼 Salary Prediction System (End-to-End ML + Docker)
+Full ML pipeline with Dockerized deployment and real-time predictions.
+
+**Tech:** Python, Scikit-learn, FastAPI, Docker  
+🔗 Live App: https://salary-predictor-lut4.onrender.com/  
+💻 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system  
+
+---
+
+### 🤖 Social Media Automation System (n8n)
+Automates content workflow using n8n, Google Sheets, and APIs.
+
+**Problem:** Manual posting is time-consuming and inconsistent  
+
+**Tech:** n8n, Google Sheets API, Instagram API  
+
+**Features:**
+- Auto-fetch content from Google Sheets  
+- Automated posting workflow  
+- No manual intervention  
+- Scalable automation system  
+
+📸 *(Add your workflow screenshot here)*  
+
+---
+
+### 🧠 Daily Practice Repository
+Consistency-focused repository covering Python, Data Science, and ML basics.
+
+🔗 https://github.com/sonikrupa74-alt/daily-practice  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
@@ -58,15 +88,16 @@ Hi, I’m Krupa Soni, a developer focused on building practical systems using Ma
 
 ---
 
-### 📈 Activity
+## 📈 Current Focus
 
-* Currently building projects and improving consistency
-* Sharing daily learning through practice repo
+- Building AI + Automation projects  
+- Improving system design skills  
+- Maintaining daily coding consistency  
 
 ---
 
 <p align="center">
-  ⭐ <b>Consistent work > random hype</b>
+  ⭐ <b>I build systems, not just models</b>
 </p>
 
 <p align="center">
