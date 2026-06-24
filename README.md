@@ -68,8 +68,6 @@ Automates content workflow using n8n, Google Sheets, and APIs.
 - No manual intervention  
 - Scalable automation system  
 
-📸 *(Add your workflow screenshot here)*  
-
 ---
 
 ### 🧠 Daily Practice Repository
