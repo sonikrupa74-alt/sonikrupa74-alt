@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krupa+Soni;AI+%26+Automation+Developer;Building+Real+World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krupa+Soni;AI+%26+Automation+Developer;Building+End-to-End+Real+World+Systems" />
 </p>
 
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
@@ -19,11 +19,15 @@
 
 Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI systems and automation workflows**.
 
-* 📊 Working on Machine Learning + API-based systems
-* ⚙️ Building automation using n8n and APIs
+* 📊 Building Machine Learning models with real-world datasets
+* ⚙️ Developing automation systems using n8n + APIs
+* 🔗 Creating end-to-end systems (ML + Backend + Deployment)
 * 🎯 Goal: AI/ML Engineer / Automation Engineer
 
+💡 **I focus on building complete systems — not just training models.**
+
 ---
+
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -36,7 +40,7 @@ Pandas, NumPy, Scikit-learn
 FastAPI
 
 **Automation:**
-n8n, APIs
+n8n, APIs, Webhooks
 
 **Tools:**
 Git, Docker, Jupyter
@@ -47,9 +51,22 @@ Git, Docker, Jupyter
 
 ### 📊 Sales Prediction System
 
-Predicts future sales using machine learning models with deployed frontend & backend.
+Predicts future sales using machine learning with a deployed frontend and API backend.
+
+**Problem:** Businesses struggle with accurate sales forecasting
 
 **Tech:** Python, Pandas, Scikit-learn, FastAPI
+
+**Key Work:**
+
+* Data preprocessing & feature engineering
+* Model training using regression algorithms
+* API development for real-time predictions
+
+**Performance:**
+
+* MAE: ~0.028 *(based on return prediction)*
+
 🔗 Frontend: https://sales-frontend-w8u6.onrender.com/
 💻 Backend: https://github.com/sonikrupa74-alt/Sales-prediction-system
 
@@ -57,9 +74,18 @@ Predicts future sales using machine learning models with deployed frontend & bac
 
 ### 💼 Salary Prediction System (End-to-End ML + Docker)
 
-Full ML pipeline with Dockerized deployment and real-time predictions.
+Complete ML pipeline with Dockerized deployment and real-time prediction system.
+
+**Problem:** Users cannot estimate salary based on skillset & experience
 
 **Tech:** Python, Scikit-learn, FastAPI, Docker
+
+**Key Work:**
+
+* Built full ML pipeline (data → training → API → deployment)
+* Dockerized backend for scalable deployment
+* Integrated user input interface with prediction API
+
 🔗 Live App: https://salary-predictor-lut4.onrender.com/
 💻 Code: https://github.com/sonikrupa74-alt/Salary-Prediction-system
 
@@ -73,12 +99,15 @@ Automates messaging workflows using n8n and API integrations.
 
 **Tech:** n8n, APIs, Webhooks
 
+**Workflow:**
+Trigger → n8n Workflow → API Call → Automated Message Delivery
+
 **Features:**
 
 * Automated message triggering
-* Workflow-based automation
+* Workflow-based automation system
 * API integration for messaging
-* Scalable and reusable workflows
+* Scalable and reusable automation pipelines
 
 💻 Workflow Repo: https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
 
@@ -86,7 +115,13 @@ Automates messaging workflows using n8n and API integrations.
 
 ### 🧠 Daily Practice Repository
 
-Consistency-focused repository covering Python, Data Science, and ML basics.
+Consistency-focused repository covering Python, Data Science, and ML fundamentals.
+
+**Focus:**
+
+* Daily coding practice
+* Core Python → Data Science → ML concepts
+* Structured learning approach
 
 🔗 https://github.com/sonikrupa74-alt/daily-practice
 
@@ -103,14 +138,14 @@ Consistency-focused repository covering Python, Data Science, and ML basics.
 
 ## 📈 Current Focus
 
-* Building AI + Automation projects
-* Improving system design skills
-* Maintaining daily coding consistency
+* 🚀 Building AI + Automation projects
+* ⚙️ Learning system design & scalable architectures
+* 📅 Maintaining daily coding consistency
 
 ---
 
 <p align="center">
-  ⭐ <b>I build systems, not just models</b>
+  ⭐ <b>I build scalable AI systems by combining Machine Learning, APIs, and Automation</b>
 </p>
 
 <p align="center">
