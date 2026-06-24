@@ -24,14 +24,22 @@ Hi, I’m Krupa Soni, a BSc IT graduate focused on building **real-world AI syst
 * 🎯 Goal: AI/ML Engineer / Automation Engineer
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL
-**ML & Data:** Pandas, NumPy, Scikit-learn
-**Backend:** FastAPI
-**Automation:** n8n, APIs
-**Tools:** Git, Docker, Jupyter
+**Languages:**
+Python, SQL
+
+**ML & Data:**
+Pandas, NumPy, Scikit-learn
+
+**Backend:**
+FastAPI
+
+**Automation:**
+n8n, APIs
+
+**Tools:**
+Git, Docker, Jupyter
 
 ---
 
