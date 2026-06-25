@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
 <p align="center">AI | Machine Learning | Automation | FastAPI</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
