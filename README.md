@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krupa+Soni;AI%2FML+%26+Automation+Developer;Building+Real-World+AI+Systems" />
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
 
 <p align="center">
-AI/ML • Automation • FastAPI • Python
+AI/ML • Python • FastAPI • n8n Automation
 </p>
 
 <p align="center">
@@ -20,98 +19,89 @@ AI/ML • Automation • FastAPI • Python
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-Hi, I'm **Krupa Soni**, a **B.Sc. IT Graduate** passionate about building AI-powered applications using **Machine Learning, FastAPI, and Automation**.
+I'm **Krupa Soni**, a **B.Sc. IT Graduate** passionate about building practical AI and automation solutions.
 
-- 🤖 Building end-to-end Machine Learning applications
-- ⚡ Developing REST APIs using FastAPI
+- 🤖 Building Machine Learning applications
+- ⚡ Developing REST APIs with FastAPI
 - 🔄 Creating automation workflows using n8n
-- 🚀 Deploying real-world AI solutions
+- 🚀 Deploying end-to-end AI solutions
+- 🌱 Continuously learning new AI technologies
 
-> **I enjoy building complete AI systems—from data preprocessing to deployment and automation.**
+> **I enjoy transforming ideas into real-world AI products.**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
+**Languages**
 
-### 📊 Machine Learning & Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+`Python` `SQL` `HTML` `CSS` `JavaScript`
 
-### ⚙️ Backend
-- FastAPI
-- REST APIs
+**Machine Learning**
 
-### 🔄 Automation
-- n8n
-- APIs
-- Webhooks
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
-### 🛠️ Tools
-- Git
-- GitHub
-- Docker
-- Jupyter Notebook
-- VS Code
-- Render
+**Backend**
 
-### 🤖 AI Tools
-- ChatGPT
-- GitHub Copilot
-- Gemini
+`FastAPI` `REST APIs`
+
+**Automation**
+
+`n8n` `Webhooks` `API Integration`
+
+**Tools**
+
+`Git` `GitHub` `Docker` `Jupyter Notebook` `VS Code` `Render`
+
+**AI Tools**
+
+`ChatGPT` `GitHub Copilot` `Gemini`
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Sales Prediction System
+### 📊 Sales Prediction System
 
-Built an end-to-end machine learning application for sales forecasting.
+End-to-end machine learning application for sales forecasting.
 
-- 🤖 Developed a real-time prediction API using FastAPI.
-- 📊 Performed data preprocessing and model training.
-- 🚀 Deployed a complete web application with an interactive frontend.
+- Developed a FastAPI backend for real-time predictions.
+- Performed data preprocessing and model training.
+- Deployed a complete web application.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • FastAPI • HTML • CSS • JavaScript • Render
+**Tech:** Python • Pandas • Scikit-learn • FastAPI • HTML • CSS • JavaScript • Render
 
-🔗 **Live:** https://sales-frontend-w8u6.onrender.com/  
+🔗 **Live Demo:** https://sales-frontend-w8u6.onrender.com/
+
 💻 **GitHub:** https://github.com/sonikrupa74-alt/Sales-prediction-system
 
 ---
 
-## 💼 Salary Prediction System
+### 💼 Salary Prediction System
 
-End-to-end machine learning application for predicting salaries.
+Machine learning application for predicting salaries.
 
-- 🐳 Built a complete ML pipeline with Docker.
-- ⚡ Integrated FastAPI backend with a responsive frontend.
-- 📈 Enabled real-time salary predictions.
+- Built a complete ML pipeline.
+- Dockerized the application.
+- Integrated FastAPI with a responsive frontend.
 
-**Tech:** Python • Pandas • Scikit-learn • FastAPI • Docker • HTML • CSS • JavaScript • Render
+**Tech:** Python • Scikit-learn • FastAPI • Docker • HTML • CSS • JavaScript • Render
 
-🔗 **Live:** https://salary-predictor-lut4.onrender.com/  
+🔗 **Live Demo:** https://salary-predictor-lut4.onrender.com/
+
 💻 **GitHub:** https://github.com/sonikrupa74-alt/Salary-Prediction-system
 
 ---
 
-## 🤖 WhatsApp Automation System
+### 🤖 WhatsApp Automation System
 
-Automation workflow built using n8n for streamlining messaging tasks.
+Workflow automation using n8n.
 
-- 🔄 Designed reusable workflow automations.
-- 🔗 Integrated APIs using webhooks.
-- ⚡ Automated repetitive messaging processes.
+- Designed reusable automation workflows.
+- Integrated APIs using webhooks.
+- Automated repetitive messaging tasks.
 
 **Tech:** n8n • APIs • Webhooks
 
@@ -119,49 +109,52 @@ Automation workflow built using n8n for streamlining messaging tasks.
 
 ---
 
-## 📚 Daily Practice Repository
+### 📚 Daily Practice Repository
 
-Repository documenting my journey of learning Python and Data Science.
+My repository for learning and practicing Python and Data Science.
 
-- 🐍 Core Python programming.
-- 📊 NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn.
-- 💻 Daily coding practice with Git & GitHub.
-
-**Tech:** Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Git
+- Core Python programming
+- NumPy, Pandas, Matplotlib, Seaborn & Scikit-learn
+- Daily coding with Git & GitHub
 
 💻 **GitHub:** https://github.com/sonikrupa74-alt/daily-practice
 
 ---
 
-# 🤝 Connect with Me
+## 📈 Current Focus
+
+- 🤖 Machine Learning
+- ⚙️ AI Automation with n8n
+- 🚀 FastAPI Development
+- 🐳 Docker & Deployment
+- 📚 Strengthening Data Science fundamentals
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/krupa-soni-01a9423a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sonikrupa74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/krupa-soni-01a9423a0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sonikrupa74@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
   <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
-
-# 🎯 Current Focus
-
-- 🤖 Building AI & Machine Learning applications
-- ⚙️ Developing automation workflows with n8n
-- 🚀 FastAPI backend development
-- 🐳 Learning Docker and deployment
-- 📚 Strengthening Data Science fundamentals
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonikrupa74-alt&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
