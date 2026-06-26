@@ -131,20 +131,6 @@ My repository for learning and practicing Python and Data Science.
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/krupa-soni-01a9423a0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sonikrupa74@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
