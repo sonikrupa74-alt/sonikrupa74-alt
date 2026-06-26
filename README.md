@@ -151,4 +151,3 @@ My repository for learning and practicing Python and Data Science.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonikrupa74-alt&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-```
