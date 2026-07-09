@@ -8,8 +8,6 @@
 AI/ML • Python • FastAPI • n8n Automation
 </p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
