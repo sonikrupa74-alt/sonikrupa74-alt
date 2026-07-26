@@ -109,18 +109,6 @@ Workflow automation using n8n.
 
 ---
 
-### 📚 Daily Practice Repository
-
-My repository for learning and practicing Python and Data Science.
-
-- Core Python programming
-- NumPy, Pandas, Matplotlib, Seaborn & Scikit-learn
-- Daily coding with Git & GitHub
-
-💻 **GitHub:** https://github.com/sonikrupa74-alt/daily-practice
-
----
-
 ## 📈 Current Focus
 
 - 🤖 Machine Learning
