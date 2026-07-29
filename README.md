@@ -123,7 +123,7 @@ Workflow automation using n8n.
 
 <p align="center">
   <img src="https://github-readme-stats-rho-black-54.vercel.app/api?username=sonikrupa74-alt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
-  <img src="https://github-readme-stats-rho-black-54.vercel.app/api/top-langs/?username=sonikrupa74-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  
 </p>
 
 <p align="center">
