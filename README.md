@@ -43,6 +43,14 @@ I'm **Krupa Soni**, a **B.Sc. IT Graduate** passionate about building practical 
 
 `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
+**Deep Learning**
+
+`CNN` `RNN` `LSTM` `GRU` `Transformers`
+
+**Generative AI & Agentic AI**
+
+`LLMs` `Generative AI` `Agentic AI` `LangChain` `LangGraph`
+
 **Backend**
 
 `FastAPI` `REST APIs`
