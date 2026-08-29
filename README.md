@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
 
+
 <p align="center">
 AI/ML • Python • FastAPI • n8n Automation
 </p>
