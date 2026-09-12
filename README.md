@@ -119,22 +119,6 @@ End-to-end machine learning application for sales forecasting.
 💻 **GitHub:** https://github.com/sonikrupa74-alt/Sales-prediction-system
 
 ---
-
-### 💼 Salary Prediction System
-
-Machine learning application for predicting salaries.
-
-- Built a complete ML pipeline.
-- Dockerized the application.
-- Integrated FastAPI with a responsive frontend.
-
-**Tech:** Python • Scikit-learn • FastAPI • Docker • HTML • CSS • JavaScript • Render
-
-🔗 **Live Demo:** https://salary-predictor-lut4.onrender.com/
-
-💻 **GitHub:** https://github.com/sonikrupa74-alt/Salary-Prediction-system---
-
----
 ## 📈 Current Focus
 
 - 🤖 Machine Learning
