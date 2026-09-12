@@ -71,6 +71,39 @@ I'm **Krupa Soni**, a **B.Sc. IT Graduate** passionate about building practical 
 
 # 🚀 Featured Projects
 
+### 🛒 E-commerce Product & Order Chatbot
+
+AI-powered e-commerce chatbot with an admin panel for managing products and orders.
+
+- Built a FastAPI REST API for products and orders.
+- Integrated LangChain + LangGraph with Groq for the AI agent.
+- Connected the application to Aiven MySQL for cloud database storage.
+- Built a React frontend with product selection and chatbot interaction.
+- Added product and order management through the admin panel.
+- Deployed the complete application using Render.
+
+**Tech:** Python • FastAPI • React • LangChain • LangGraph • Groq • MySQL • Aiven • REST APIs • Render
+
+🔗 **Live Demo:** https://product-chatbot-frontend.onrender.com/customer/chat
+
+💻 **GitHub:** https://github.com/sonikrupa74-alt/product-chatbot
+
+---
+
+### 🤖 WhatsApp Automation System
+
+Workflow automation using n8n.
+
+- Designed reusable automation workflows.
+- Integrated APIs using webhooks.
+- Automated repetitive messaging tasks.
+
+**Tech:** n8n • APIs • Webhooks
+
+💻 **GitHub:** https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
+
+---
+
 ### 📊 Sales Prediction System
 
 End-to-end machine learning application for sales forecasting.
@@ -99,24 +132,9 @@ Machine learning application for predicting salaries.
 
 🔗 **Live Demo:** https://salary-predictor-lut4.onrender.com/
 
-💻 **GitHub:** https://github.com/sonikrupa74-alt/Salary-Prediction-system
+💻 **GitHub:** https://github.com/sonikrupa74-alt/Salary-Prediction-system---
 
 ---
-
-### 🤖 WhatsApp Automation System
-
-Workflow automation using n8n.
-
-- Designed reusable automation workflows.
-- Integrated APIs using webhooks.
-- Automated repetitive messaging tasks.
-
-**Tech:** n8n • APIs • Webhooks
-
-💻 **GitHub:** https://github.com/sonikrupa74-alt/whatsapp-automation-n8n
-
----
-
 ## 📈 Current Focus
 
 - 🤖 Machine Learning
