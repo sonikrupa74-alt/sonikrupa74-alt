@@ -17,6 +17,13 @@ AI/ML • Python • FastAPI • n8n Automation
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  🌐 <b>Portfolio:</b>
+  <a href="https://portfolio-five-opal-6edcuil9b3.vercel.app/">
+    portfolio-five-opal-6edcuil9b3.vercel.app
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
