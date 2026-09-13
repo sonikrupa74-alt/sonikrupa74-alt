@@ -19,8 +19,8 @@ AI/ML • Python • FastAPI • n8n Automation
 
 <p align="center">
   🌐 <b>Portfolio:</b>
-  <a href="https://portfolio-five-opal-6edcuil9b3.vercel.app/">
-    portfolio-five-opal-6edcuil9b3.vercel.app
+  <a href="https://krupa-soni.vercel.app/">
+    krupa-soni.vercel.app
   </a>
 </p>
 
