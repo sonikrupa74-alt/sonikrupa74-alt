@@ -3,7 +3,6 @@
 </p>
 
 
-bbb
 
 <h1 align="center">Hi, I'm Krupa Soni 👋</h1>
 
